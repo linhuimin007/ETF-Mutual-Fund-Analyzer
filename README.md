@@ -19,7 +19,7 @@ To execute the script, navigate to the directory containing the `ETFMutualFundAn
 
 ## Screenshots
 
-![Screenshot 1](<img width="1000" alt="image" src="https://github.com/linhuimin007/ETF-Mutual-Fund-Analyzer/assets/93885882/f50c2cca-fb39-456b-a5e5-2da97cca9d14">)
+![Screenshot 1]<img width="1000" alt="image" src="https://github.com/linhuimin007/ETF-Mutual-Fund-Analyzer/assets/93885882/f50c2cca-fb39-456b-a5e5-2da97cca9d14">
 
 ## License
 
